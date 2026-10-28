@@ -1,0 +1,25 @@
+<svg width="300" height="330" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 330" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="330"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-330)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 25,140 L 275,140 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 2;"/>
+			<rect x="115" y="140" width="60" height="50" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<path d="M 145,165 L 145,63 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 3.5;"/>
+			<polygon points="145 63, 150.2196 73.80537, 139.7804 73.80537" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="162" y="68" style="font-family: Arial; font-size: 18px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,136) scale(1,-1)">Weight</text>
+			<path d="M 145,165 L 145,267 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 3.5;"/>
+			<polygon points="145 267, 139.7804 256.1946, 150.2196 256.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="162" y="260" style="font-family: Arial; font-size: 17px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,520) scale(1,-1)">Support</text>
+			<path d="M 145,165 L 45,165 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 3.5;"/>
+			<polygon points="45 165, 55.80537 159.7804, 55.80537 170.2196" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="28.495117187499996" y="182" style="font-family: Arial; font-size: 18px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,364) scale(1,-1)">Friction</text>
+			<path d="M 80,308 L 220,308 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 5, 4;"/>
+			<polygon points="220 308, 209.1946 313.2196, 209.1946 302.7804" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,50%,55%); fill-rule: evenodd;"/>
+			<text x="75.30078125" y="287" style="font-family: Arial; font-size: 16px;fill: rgb(45%,50%,55%); stroke:none;" transform="translate(0,574) scale(1,-1)">Moving right; slowing</text>
+		</g>
+	</g>
+</svg>

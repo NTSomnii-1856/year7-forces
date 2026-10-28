@@ -1,0 +1,19 @@
+<svg width="500" height="240" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 240" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="240"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-240)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="100" y="80" width="110" height="85" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<path d="M 155,150 L 275,150 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="275 150, 264.1946 155.2196, 264.1946 144.7804" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="232.88232421875" y="180" style="font-family: Arial; font-size: 22px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,360) scale(1,-1)">6 N</text>
+			<path d="M 155,110 L 195,110 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="195 110, 184.1946 115.2196, 184.1946 104.7804" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="227.88232421875" y="100" style="font-family: Arial; font-size: 22px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,200) scale(1,-1)">2 N</text>
+			<text x="158.291015625" y="25" style="font-family: Arial; font-size: 20px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,50) scale(1,-1)">Both forces act right.</text>
+		</g>
+	</g>
+</svg>

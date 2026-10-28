@@ -1,0 +1,28 @@
+<svg width="640" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 640 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="640" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="100" y="150" width="140" height="14" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,99%,96%); fill-rule: evenodd;"/>
+			<path d="M 170,157 L 170,282 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="170 282, 164.7804 271.1946, 175.2196 271.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="93.47363281249999" y="300" style="font-family: Arial; font-size: 18px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,600) scale(1,-1)">More air resistance</text>
+			<path d="M 170,157 L 170,57 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="170 57, 175.2196 67.80537, 164.7804 67.80537" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="117.97314453125" y="35" style="font-family: Arial; font-size: 18px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,70) scale(1,-1)">Same weight</text>
+			<text x="126.99072265625" y="12" style="font-family: Arial; font-weight: bold; font-size: 18px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,24) scale(1,-1)">Flat paper</text>
+			<polygon points="433 174, 465 182, 484 157, 469 136, 435 140, 424 160" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,99%,96%); fill-rule: evenodd;"/>
+			<path d="M 455,157 L 455,214 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="455 214, 449.7804 203.1946, 460.2196 203.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="379.9677734375" y="300" style="font-family: Arial; font-size: 18px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,600) scale(1,-1)">Less air resistance</text>
+			<path d="M 455,157 L 455,57 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="455 57, 460.2196 67.80537, 449.7804 67.80537" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="402.97314453125" y="35" style="font-family: Arial; font-size: 18px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,70) scale(1,-1)">Same weight</text>
+			<text x="385.98828125" y="12" style="font-family: Arial; font-weight: bold; font-size: 18px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,24) scale(1,-1)">Crumpled paper</text>
+			<text x="104.87451171874997" y="330" style="font-family: Arial; font-size: 18px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,660) scale(1,-1)">Compare the same piece of paper at the same speed.</text>
+		</g>
+	</g>
+</svg>

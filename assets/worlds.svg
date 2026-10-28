@@ -1,0 +1,26 @@
+<svg width="640" height="345" preserveAspectRatio="xMinYMin meet" viewBox="0 0 640 345" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="640" height="345"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-345)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="130" y="165" width="90" height="60" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<circle cx="175" cy="110" r="25" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,91%,93%); fill-rule: evenodd;"/>
+			<path d="M 175,192 L 175,72 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="175 72, 180.2196 82.80537, 169.7804 82.80537" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="230" y="115" style="font-family: Arial; font-size: 22px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,230) scale(1,-1)">10 N</text>
+			<text x="145.604248046875" y="285" style="font-family: Arial; font-weight: bold; font-size: 23px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,570) scale(1,-1)">Earth</text>
+			<text x="101.611572265625" y="255" style="font-family: Arial; font-size: 19px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,510) scale(1,-1)">Same mass: 1 kg</text>
+			<rect x="420" y="165" width="90" height="60" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<circle cx="465" cy="110" r="25" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,89%,89%); fill-rule: evenodd;"/>
+			<path d="M 465,192 L 465,172.8 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="465 172.8, 470.2196 183.6054, 459.7804 183.6054" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="520" y="115" style="font-family: Arial; font-size: 22px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,230) scale(1,-1)">1.6 N</text>
+			<text x="434.346435546875" y="285" style="font-family: Arial; font-weight: bold; font-size: 23px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,570) scale(1,-1)">Moon</text>
+			<text x="391.611572265625" y="255" style="font-family: Arial; font-size: 19px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,510) scale(1,-1)">Same mass: 1 kg</text>
+			<text x="91.355224609375" y="25" style="font-family: Arial; font-size: 19px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,50) scale(1,-1)">Different gravitational field strength → different weight.</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="640" height="340" preserveAspectRatio="xMinYMin meet" viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="640" height="340"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 85,145 L 555,145 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 2;"/>
+			<rect x="270" y="145" width="100" height="48" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<text x="249.4501953125" y="18" style="font-family: Arial; font-size: 18px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,36) scale(1,-1)">Choose the book.</text>
+		</g>
+	</g>
+</svg>

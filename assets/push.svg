@@ -1,0 +1,16 @@
+<svg width="640" height="290" preserveAspectRatio="xMinYMin meet" viewBox="0 0 640 290" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="640" height="290"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-290)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="245" y="100" width="150" height="85" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<path d="M 280,150 L 420,150 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="420 150, 409.1946 155.2196, 409.1946 144.7804" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="209.95947265625" y="210" style="font-family: Arial; font-size: 22px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,420) scale(1,-1)">A hand pushes the box right.</text>
+			<text x="169.3603515625" y="45" style="font-family: Arial; font-size: 20px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,90) scale(1,-1)">A force has a size and a direction.</text>
+		</g>
+	</g>
+</svg>

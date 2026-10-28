@@ -1,0 +1,20 @@
+<svg width="300" height="340" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="340"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
+		<g transform="">
+			<polygon points="118 167, 150 175, 168 150, 154 130, 120 133, 110 153" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,99%,96%); fill-rule: evenodd;"/>
+			<path d="M 140,150 L 140,185 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="140 185, 134.7804 174.1946, 145.2196 174.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="158" y="178" style="font-family: Arial; font-size: 17px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,356) scale(1,-1)">Air resistance</text>
+			<path d="M 140,150 L 140,50 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="140 50, 145.2196 60.80537, 134.7804 60.80537" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="158" y="55" style="font-family: Arial; font-size: 18px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,110) scale(1,-1)">Weight</text>
+			<text x="69.486328125" y="316" style="font-family: Arial; font-weight: bold; font-size: 21px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,632) scale(1,-1)">Crumpled paper</text>
+			<text x="49.834472656249986" y="12" style="font-family: Arial; font-size: 17px;fill: rgb(45%,50%,55%); stroke:none;" transform="translate(0,24) scale(1,-1)">Same speed, same weight</text>
+		</g>
+	</g>
+</svg>

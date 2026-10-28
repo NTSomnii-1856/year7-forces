@@ -1,0 +1,15 @@
+<svg width="300" height="330" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 330" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="330"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-330)" style="clip-path: url(#clip)">
+		<g transform="">
+			<polygon points="122 188, 177 183, 170 138, 116 142" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(98%,98%,99%); fill-rule: evenodd;"/>
+			<path d="M 257,200 L 257,120 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 5, 4;"/>
+			<polygon points="257 120, 262.2196 130.8054, 251.7804 130.8054" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,50%,55%); fill-rule: evenodd;"/>
+			<text x="54.82421875" y="308" style="font-family: Arial; font-size: 16px;fill: rgb(45%,50%,55%); stroke:none;" transform="translate(0,616) scale(1,-1)">Moving down; speeding up</text>
+		</g>
+	</g>
+</svg>

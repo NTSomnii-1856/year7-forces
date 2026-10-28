@@ -1,0 +1,19 @@
+<svg width="300" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="300"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="20" y="25" width="260" height="195" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(89%,94%,96%); fill-rule: evenodd;"/>
+			<path d="M 20,155 L 280,155 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<ellipse cx="150.0" cy="135.0" rx="40.0" ry="28.0" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<path d="M 150,135 L 150,245 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="150 245, 144.7804 234.1946, 155.2196 234.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="175" y="235" style="font-family: Arial; font-size: 18px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,470) scale(1,-1)">Upthrust</text>
+			<text x="74.98974609374999" y="275" style="font-family: Arial; font-weight: bold; font-size: 18px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,550) scale(1,-1)">Water pushes up.</text>
+			<text x="52.437744140625" y="5" style="font-family: Arial; font-size: 15px;fill: rgb(45%,50%,55%); stroke:none;" transform="translate(0,10) scale(1,-1)">One contact force highlighted</text>
+		</g>
+	</g>
+</svg>

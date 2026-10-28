@@ -1,0 +1,19 @@
+<svg width="300" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="300"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="115" y="100" width="70" height="60" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<path d="M 75 116 L 80 134 L 85 116 L 90 134 L 95 116 L 100 134 L 105 116 L 110 134 L 115 116 L 120 134 L 125 116 L 130 134 " style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 65,80 L 65,170 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 150,130 L 235,130 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="235 130, 224.1946 135.2196, 224.1946 124.7804" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="98.26025390625" y="205" style="font-family: Arial; font-size: 19px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,410) scale(1,-1)">Elastic force</text>
+			<text x="41.986816406249986" y="275" style="font-family: Arial; font-weight: bold; font-size: 18px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,550) scale(1,-1)">A spring pushes or pulls.</text>
+			<text x="52.437744140625" y="5" style="font-family: Arial; font-size: 15px;fill: rgb(45%,50%,55%); stroke:none;" transform="translate(0,10) scale(1,-1)">One contact force highlighted</text>
+		</g>
+	</g>
+</svg>

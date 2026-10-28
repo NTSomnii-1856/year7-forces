@@ -1,0 +1,17 @@
+<svg width="300" height="330" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 330" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="330"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-330)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 25,140 L 275,140 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 2;"/>
+			<rect x="115" y="140" width="60" height="50" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<path d="M 145,165 L 145,63 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 3.5;"/>
+			<polygon points="145 63, 150.2196 73.80537, 139.7804 73.80537" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="162" y="68" style="font-family: Arial; font-size: 18px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,136) scale(1,-1)">Weight</text>
+			<text x="125.43798828125" y="308" style="font-family: Arial; font-size: 17px;fill: rgb(45%,50%,55%); stroke:none;" transform="translate(0,616) scale(1,-1)">At rest</text>
+		</g>
+	</g>
+</svg>

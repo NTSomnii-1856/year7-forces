@@ -1,0 +1,18 @@
+<svg width="300" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="100" y="165" width="90" height="60" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<circle cx="145" cy="40" r="20" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,89%,89%); fill-rule: evenodd;"/>
+			<path d="M 145,195 L 145,175.8 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="145 175.8, 150.2196 186.6054, 139.7804 186.6054" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="205" y="185.8" style="font-family: Arial; font-size: 21px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,371) scale(1,-1)">1.6 N</text>
+			<text x="118.013671875" y="318" style="font-family: Arial; font-weight: bold; font-size: 24px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,636) scale(1,-1)">Moon</text>
+			<text x="101.650390625" y="282" style="font-family: Arial; font-size: 20px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,564) scale(1,-1)">Mass: 1 kg</text>
+		</g>
+	</g>
+</svg>

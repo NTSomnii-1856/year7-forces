@@ -1,0 +1,19 @@
+<svg width="300" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="300"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 50,240 L 250,240 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 150,240 L 150,125 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 3;"/>
+			<rect x="115" y="85" width="70" height="60" rx="5" ry="5" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<path d="M 150,115 L 150,210 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
+			<polygon points="150 210, 144.7804 199.1946, 155.2196 199.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="167" y="195" style="font-family: Arial; font-size: 18px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,390) scale(1,-1)">Tension</text>
+			<text x="95.49462890625" y="275" style="font-family: Arial; font-weight: bold; font-size: 18px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,550) scale(1,-1)">A rope pulls.</text>
+			<text x="52.437744140625" y="5" style="font-family: Arial; font-size: 15px;fill: rgb(45%,50%,55%); stroke:none;" transform="translate(0,10) scale(1,-1)">One contact force highlighted</text>
+		</g>
+	</g>
+</svg>

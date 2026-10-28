@@ -1,0 +1,22 @@
+<svg width="300" height="400" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="300" height="400"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-400)" style="clip-path: url(#clip)">
+		<g transform="">
+			<circle cx="125" cy="175" r="18" style="stroke: rgb(14%,23%,31%); stroke-linecap: butt; stroke-width: 2; fill: rgb(96%,87%,70%); fill-rule: evenodd;"/>
+			<path d="M 125,175 L 125,65 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 3.5;"/>
+			<polygon points="125 65, 130.2196 75.80537, 119.7804 75.80537" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
+			<text x="143" y="70" style="font-family: Arial; font-size: 18px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,140) scale(1,-1)">Weight</text>
+			<path d="M 125,175 L 125,210 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 3.5;"/>
+			<polygon points="125 210, 119.7804 199.1946, 130.2196 199.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
+			<text x="143" y="206" style="font-family: Arial; font-size: 17px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,412) scale(1,-1)">Air resistance</text>
+			<path d="M 268,200 L 268,130 Z" style="stroke: rgb(45%,50%,55%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 5, 4;"/>
+			<polygon points="268 130, 273.2196 140.8054, 262.7804 140.8054" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,50%,55%); fill-rule: evenodd;"/>
+			<text x="91.399658203125" y="376" style="font-family: Arial; font-weight: bold; font-size: 19px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,752) scale(1,-1)">1. Speeds up</text>
+			<text x="79.13623046875" y="22" style="font-family: Arial; font-size: 17px;fill: rgb(45%,50%,55%); stroke:none;" transform="translate(0,44) scale(1,-1)">Movement is down</text>
+		</g>
+	</g>
+</svg>
