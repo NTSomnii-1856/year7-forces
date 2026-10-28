@@ -13,7 +13,7 @@
 			<text x="340" y="57" style="font-family: Arial; font-size: 20px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,114) scale(1,-1)">Weight</text>
 			<path d="M 320,168 L 320,288 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
 			<polygon points="320 288, 314.7804 277.1946, 325.2196 277.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
-			<text x="340" y="276" style="font-family: Arial; font-size: 20px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,552) scale(1,-1)">Support</text>
+			<text x="340" y="276" style="font-family: Arial; font-size: 20px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,552) scale(1,-1)">Normal</text>
 			<text x="198.9130859375" y="18" style="font-family: Arial; font-size: 18px;fill: rgb(14%,23%,31%); stroke:none;" transform="translate(0,36) scale(1,-1)">The table pushes the book up.</text>
 		</g>
 	</g>

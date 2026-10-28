@@ -14,7 +14,7 @@
 				<text x="212.216796875" y="225" style="font-family: Arial; font-size: 20px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,450) scale(1,-1)">Friction</text>
 				<path d="M 320,175 L 320,285 Z" style="stroke: rgb(15%,46%,59%); stroke-linecap: butt; stroke-width: 4;"/>
 				<polygon points="320 285, 314.7804 274.1946, 325.2196 274.1946" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,46%,59%); fill-rule: evenodd;"/>
-				<text x="338" y="270" style="font-family: Arial; font-size: 18px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,540) scale(1,-1)">Support</text>
+				<text x="338" y="270" style="font-family: Arial; font-size: 18px;fill: rgb(15%,46%,59%); stroke:none;" transform="translate(0,540) scale(1,-1)">Normal</text>
 				<path d="M 320,175 L 320,65 Z" style="stroke: rgb(74%,34%,23%); stroke-linecap: butt; stroke-width: 4;"/>
 				<polygon points="320 65, 325.2196 75.80537, 314.7804 75.80537" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(74%,34%,23%); fill-rule: evenodd;"/>
 				<text x="338" y="55" style="font-family: Arial; font-size: 18px;fill: rgb(74%,34%,23%); stroke:none;" transform="translate(0,110) scale(1,-1)">Weight</text>
